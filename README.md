@@ -6,7 +6,7 @@
 - 👀 I’m interested in frontend developement
 - 🌱 I’m currently learning Java, Java-script
 - Learning code just for the knowladge and as a interest!
-- 📫 mail me-vinamrajha@bilwg.com
+- 📫 mail me- vinamrajha@bilwg.com
 
 <!---
 vinamrajha/vinamrajha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
