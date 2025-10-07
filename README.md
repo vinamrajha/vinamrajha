@@ -1,14 +1,24 @@
-- 👋 Hi, I’m @vinamrajha
-- 18teen
-- Founder-Sain, Co-Founder at Bilwg
-- 5 yrs of experience in Digital marketing, Designing (UI/UX, Graphics), 2 yrs in basic coading
-- Has worked for over 8 start-ups/companies and influencers from all around the globe (Clients from USA and India are the common once)
-- 👀 I’m interested in frontend developement
-- 🌱 I’m currently learning Java, Java-script
-- Learning code just for the knowladge and as a interest!
-- 📫 mail me- vinamrajha@bilwg.com
+# Vinamra Jha
+## Data Scientist | Machine Learning & AI
 
-<!---
-vinamrajha/vinamrajha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Professional Summary
+Data Scientist with **1.5 years of experience** in developing machine learning solutions, building predictive models, and creating data-driven insights. Specialized in applying advanced analytics and AI techniques to solve business challenges.
+
+### Technical Stack
+- **Programming**: Python, SQL
+- **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn
+- **Data Visualization**: Power BI, Tableau
+- **Core Competencies**: Machine Learning, Deep Learning, Data Analytics, Business Intelligence
+
+### Professional Development
+- **Coursera** - Machine Learning and Data Science specializations
+- **Self-Directed Learning** - Hands-on practice through YouTube courses and technical resources
+- **Focus Areas** - MLOps, Deep Learning architectures, Production AI systems
+
+### Contact
+**Email**: vinamrajha@bilwg.com  
+**LinkedIn**: [linkedin.com/in/vinamrajha](https://www.linkedin.com/in/vinamrajha/)  
+**Location**: Chandigarh, India
+
+---
+*Open to Data Science opportunities and professional collaborations*
