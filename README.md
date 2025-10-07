@@ -12,8 +12,8 @@ Data Scientist with **1.5 years of experience** in developing machine learning s
 - **Self-Directed Learning** - Hands-on practice through YouTube courses and technical resources
 - **Focus Areas** - MLOps, Deep Learning architectures, Production AI systems
 ### Contact
-Email**: vinamra81548@gmail.com
-LinkedIn**: [linkedin.com/in/vini-jha](https://www.linkedin.com/in/vini-jha/)  
-Location**: Chandigarh, India
+Email: vinamra81548@gmail.com
+LinkedIn: [linkedin.com/in/vini-jha](https://www.linkedin.com/in/vini-jha/)  
+Location: Chandigarh, India
 ---
 *Open to Data Science opportunities and professional collaborations*
