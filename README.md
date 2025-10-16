@@ -1,7 +1,7 @@
 # Vinamra Jha
 ## Data Scientist | Machine Learning & AI
 ### Professional Summary
-Data Scientist with **1.5 years of experience** in developing machine learning solutions, building predictive models, and creating data-driven insights. Specialized in applying advanced analytics and AI techniques to solve business challenges.
+Data Scientist with **1 year of experience** in developing machine learning solutions, building predictive models, and creating data-driven insights. Specialized in applying advanced analytics and AI techniques to solve business challenges.
 ### Technical Stack
 - **Programming**: Python, SQL
 - **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn
